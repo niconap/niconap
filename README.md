@@ -6,4 +6,4 @@ Hi! My name is Nico. I am a high school student from The Netherlands who is expl
 - 😄 My pronouns are he/him
 - 💬 You can message me through [my e-mail](mailto:nico.nap@outlook.com)
 - 🔣 I can speak Dutch and English fluently and I can also speak/understand a little German
-- 😀 You can find my portfolio [here](https://niconap.ga/)
+- 😀 You can find my portfolio [here](https://niconap.github.io/portfolio)
