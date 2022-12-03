@@ -1,2 +1,1 @@
-### Hello! 
-Hi! My name is Nico! I'm a student from the Netherlands who loves to code, especially in the field of web development. Welcome to my github page!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
