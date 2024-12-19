@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm [computer science](https://www.uva.nl/programmas/bachelors/informatica/informatica.html) student at the University of Amsterdam. This account contains some public repositories of my personal projects, but most of my repositories contain school-related stuff and are private.
 
-I have a personal website, which you can find [here](niconap.dev). On here, a few of my favourite creations are listed.
+I have a personal website, which you can find [here](https://niconap.dev). On here, a few of my favourite creations are listed.
 
 ## Languages and tools
 These are some of the languages and tools I like using the most!
