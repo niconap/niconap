@@ -1,6 +1,6 @@
 # Hi there, I'm Nico
 
-Welcome to my GitHub profile! I'm a [computer science](https://www.uva.nl/programmas/bachelors/informatica/informatica.html) graduate from the University of Amsterdam. This account contains some public repositories of my personal projects, but most of my repositories are school-related and are private.
+Welcome to my GitHub profile! I'm a [computer science](https://www.uva.nl/programmas/bachelors/informatica/informatica.html) graduate from the University of Amsterdam and I am currently studying [artificial intelligence](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html) at the same university. This account contains some public repositories of my personal projects, but most of my repositories are school-related and are private.
 
 I have a personal website, which you can find [here](https://niconap.dev). On here, a few of my favourite creations are listed.
 
